@@ -5,7 +5,11 @@ import random
 # Load the store data from the Streamlit secrets
 def load_store_data():
     # Fetch the JSON string from the Streamlit secrets
-    store_data_json = st.secrets["general"]["store_db"]
+    store_data_json = st.secrets.get("general", {}).get("store_db", None)
+
+    if store_data_json is None:
+        st.error("Store data not found in the secrets. Please check your secrets.toml.")
+        return []
 
     # Try to load the JSON and check if it's valid
     try:
@@ -37,7 +41,9 @@ def main():
 
     # Section for manual store ID input
     st.subheader("Find Store by ID")
-    store_id = st.text_input("Enter Store ID:")
+    
+    # Using number_input for store_id instead of text_input
+    store_id = st.number_input("Enter Store ID:", min_value=1, step=1)
 
     if store_id:
         # Retrieve the store info based on the entered store ID
