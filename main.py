@@ -1,13 +1,18 @@
 import streamlit as st
 import json
 import random
-import os
 
 # Load the store data from the Streamlit secrets
 def load_store_data():
     # Fetch the JSON string from the Streamlit secrets
     store_data_json = st.secrets["general"]["store_db"]
-    return json.loads(store_data_json)
+
+    # Try to load the JSON and check if it's valid
+    try:
+        return json.loads(store_data_json)
+    except json.JSONDecodeError:
+        st.error("Failed to decode the JSON data. Please check the secrets.toml format.")
+        return []
 
 # Function to get store information by store ID
 def get_store_info(store_id, store_data):
@@ -26,6 +31,9 @@ def main():
 
     # Load the store data from secrets
     store_data = load_store_data()
+
+    if not store_data:
+        return  # Stop the app if there was an error in loading data
 
     # Section for manual store ID input
     st.subheader("Find Store by ID")
