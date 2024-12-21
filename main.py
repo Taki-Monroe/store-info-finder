@@ -9,7 +9,7 @@ def load_store_data():
 # Function to get store information by store ID
 def get_store_info(store_id, store_data):
     for store in store_data:
-        if store['storeId'] == store_id:
+        if str(store['storeId']) == str(store_id):  # Ensuring the ID comparison is consistent
             return store
     return None
 
@@ -20,8 +20,8 @@ def main():
     # Load the store data
     store_data = load_store_data()
 
-    # User input for store ID
-    store_id = st.number_input("Enter Store ID:", min_value=1, step=1)
+    # User input for store ID (as a text field)
+    store_id = st.text_input("Enter Store ID:")
 
     if store_id:
         # Retrieve the store info based on the entered store ID
