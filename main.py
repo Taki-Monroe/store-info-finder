@@ -1,11 +1,13 @@
 import streamlit as st
 import json
 import random
+import os
 
-# Load the store data from the store_db.json file
+# Load the store data from the Streamlit secrets
 def load_store_data():
-    with open('store_db.json', 'r') as file:
-        return json.load(file)
+    # Fetch the JSON string from the Streamlit secrets
+    store_data_json = st.secrets["general"]["store_db"]
+    return json.loads(store_data_json)
 
 # Function to get store information by store ID
 def get_store_info(store_id, store_data):
@@ -22,7 +24,7 @@ def get_random_store(store_data):
 def main():
     st.title("Store Information Finder")
 
-    # Load the store data
+    # Load the store data from secrets
     store_data = load_store_data()
 
     # Section for manual store ID input
