@@ -42,8 +42,8 @@ def main():
     # Section for manual store ID input
     st.subheader("Find Store by ID")
     
-    # Using number_input for store_id instead of text_input
-    store_id = st.number_input("Enter Store ID:", min_value=1, step=1)
+    # Let the user input store ID manually
+    store_id = st.text_input("Enter Store ID:")
 
     if store_id:
         # Retrieve the store info based on the entered store ID
@@ -57,7 +57,7 @@ def main():
             st.write(f"**Phone Number**: {store_info['phoneNumber']}")
             st.write(f"[Dialer URL]({store_info['dialer_url']})")
         else:
-            st.error("Store ID not found.")
+            st.error("Store ID not found. Please check the ID and try again.")
 
     # Section for random store generator
     st.subheader("Random Store Generator")
