@@ -1,5 +1,6 @@
 import streamlit as st
 import json
+import random
 
 # Load the store data from the store_db.json file
 def load_store_data():
@@ -13,6 +14,10 @@ def get_store_info(store_id, store_data):
             return store
     return None
 
+# Function to get a random store information
+def get_random_store(store_data):
+    return random.choice(store_data)
+
 # Streamlit app setup
 def main():
     st.title("Store Information Finder")
@@ -20,7 +25,8 @@ def main():
     # Load the store data
     store_data = load_store_data()
 
-    # User input for store ID (as a text field)
+    # Section for manual store ID input
+    st.subheader("Find Store by ID")
     store_id = st.text_input("Enter Store ID:")
 
     if store_id:
@@ -36,6 +42,17 @@ def main():
             st.write(f"[Dialer URL]({store_info['dialer_url']})")
         else:
             st.error("Store ID not found.")
+
+    # Section for random store generator
+    st.subheader("Random Store Generator")
+    if st.button("Generate Random Store"):
+        random_store = get_random_store(store_data)
+        # Display random store information
+        st.write(f"**Store ID**: {random_store['storeId']}")
+        st.write(f"**Address**: {random_store['address']}")
+        st.write(f"**Zip Code**: {random_store['zipCode']}")
+        st.write(f"**Phone Number**: {random_store['phoneNumber']}")
+        st.write(f"[Dialer URL]({random_store['dialer_url']})")
 
 if __name__ == "__main__":
     main()
