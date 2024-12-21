@@ -1,0 +1,548 @@
+[
+    {
+        "storeId": 3736,
+        "address": "1915 Nostrand Ave, Brooklyn, NY 11226",
+        "zipCode": "11226",
+        "phoneNumber": "7189407272",
+        "dialer_url": "https://www.bistrobpo.com/3736/43"
+    },
+    {
+        "storeId": 2966,
+        "address": "583 West Merrick Road, Valley Stream, NY 11580",
+        "zipCode": "11580",
+        "phoneNumber": "5168237272",
+        "dialer_url": "https://www.bistrobpo.com/2966/57"
+    },
+    {
+        "storeId": 3039,
+        "address": "1701 Ralph Avenue #1703, Brooklyn, NY 11236",
+        "zipCode": "11236",
+        "phoneNumber": "7182517272",
+        "dialer_url": "https://www.bistrobpo.com/3039/66"
+    },
+    {
+        "storeId": 2950,
+        "address": "12 SUTTER AVENUE, Brooklyn, NY 11212",
+        "zipCode": "11212",
+        "phoneNumber": "7188047272",
+        "dialer_url": "https://www.bistrobpo.com/2950/54"
+    },
+    {
+        "storeId": 3208,
+        "address": "99-06 NORTHERN BLVD, Corona, NY 11368",
+        "zipCode": "11368",
+        "phoneNumber": "7185077991",
+        "dialer_url": "https://www.bistrobpo.com/3208/65"
+    },
+    {
+        "storeId": 3702,
+        "address": "3528 Nostrand Ave, Brooklyn, NY 11229",
+        "zipCode": "11229",
+        "phoneNumber": "7186467272",
+        "dialer_url": "https://www.bistrobpo.com/3702/42"
+    },
+    {
+        "storeId": 2944,
+        "address": "28 Guy Lombardo Avenue, Freeport, NY 11520",
+        "zipCode": "11520",
+        "phoneNumber": "5163777272",
+        "dialer_url": "https://www.bistrobpo.com/2944/53"
+    },
+    {
+        "storeId": 3059,
+        "address": "1552 HEMPSTEAD TPKE, ELMONT, NY 11003",
+        "zipCode": "11003",
+        "phoneNumber": "5163587272",
+        "dialer_url": "https://www.bistrobpo.com/3059/67"
+    },
+    {
+        "storeId": 5104,
+        "address": "1190 FOREST AVENUE, STATEN ISLAND, NY 10310",
+        "zipCode": "10310",
+        "phoneNumber": "7189817272",
+        "dialer_url": "https://www.bistrobpo.com/5104/36"
+    },
+    {
+        "storeId": 3623,
+        "address": "742 Lyons Ave, Irvington, NJ 07111",
+        "zipCode": "07111",
+        "phoneNumber": "9733757272",
+        "dialer_url": "https://www.bistrobpo.com/3623/7"
+    },
+    {
+        "storeId": 3513,
+        "address": "759 St. George Avenue Ste. C, Woodbridge, NJ 07095",
+        "zipCode": "07095",
+        "phoneNumber": "7327500008",
+        "dialer_url": "https://www.bistrobpo.com/3513/70"
+    },
+    {
+        "storeId": 4653,
+        "address": "2119 1st Ave, New York, NY 10029",
+        "zipCode": "10029",
+        "phoneNumber": "2129967272",
+        "dialer_url": "https://www.bistrobpo.com/4653/12"
+    },
+    {
+        "storeId": 4790,
+        "address": "147 20 ROCKAWAY BLVD S, SOUTH OZONE PARK, NY 11436",
+        "zipCode": "11436",
+        "phoneNumber": "9178937272",
+        "dialer_url": "https://www.bistrobpo.com/4790/26"
+    },
+    {
+        "storeId": 3853,
+        "address": "452A Suffolk Avenue, Brentwood, NY 11717-4214",
+        "zipCode": "11717",
+        "phoneNumber": "6319527272",
+        "dialer_url": "https://www.bistrobpo.com/3853/51"
+    },
+    {
+        "storeId": 4699,
+        "address": "1709 AMSTERDAM AVE, NEW YORK, NY 10031",
+        "zipCode": "10031",
+        "phoneNumber": "2122817272",
+        "dialer_url": "https://www.bistrobpo.com/4699/24"
+    },
+    {
+        "storeId": 3095,
+        "address": "133 Medford Ave, Patchogue, NY 11772",
+        "zipCode": "11772",
+        "phoneNumber": "6312077272",
+        "dialer_url": "https://www.bistrobpo.com/3095/75"
+    },
+    {
+        "storeId": 4091,
+        "address": "343 Grand Street, New York City, NY 10002",
+        "zipCode": "10002",
+        "phoneNumber": "2129797272",
+        "dialer_url": "https://www.bistrobpo.com/4091/40"
+    },
+    {
+        "storeId": 4633,
+        "address": "703 LENOX AVENUE, NEW YORK, NY 10039",
+        "zipCode": "10039",
+        "phoneNumber": "2124917272",
+        "dialer_url": "https://www.bistrobpo.com/4633/11"
+    },
+    {
+        "storeId": 2936,
+        "address": "945 Pennsylvania Ave, Brooklyn, NY 11207",
+        "zipCode": "11207",
+        "phoneNumber": "7182727272",
+        "dialer_url": "https://www.bistrobpo.com/2936/46"
+    },
+    {
+        "storeId": 3391,
+        "address": "724 Grand Street, Jersey City, NJ 07304",
+        "zipCode": "07304",
+        "phoneNumber": "2014517272",
+        "dialer_url": "https://www.bistrobpo.com/3391/73"
+    },
+    {
+        "storeId": 3346,
+        "address": "6602 Bergenline Avenue, West New York, NJ 07093",
+        "zipCode": "07093",
+        "phoneNumber": "2016627272",
+        "dialer_url": "https://www.bistrobpo.com/3346/79"
+    },
+    {
+        "storeId": 4662,
+        "address": "103-03 101ST AVENUE, OZONE PARK, NY 11416",
+        "zipCode": "11416",
+        "phoneNumber": "7188507272",
+        "dialer_url": "https://www.bistrobpo.com/4662/23"
+    },
+    {
+        "storeId": 3320,
+        "address": "49-19 30th Ave, Woodside, NY 11377",
+        "zipCode": "11377",
+        "phoneNumber": "7182747272",
+        "dialer_url": "https://www.bistrobpo.com/3320/81"
+    },
+    {
+        "storeId": 4010,
+        "address": "400 Rte 130, Hightstown, NJ 08520",
+        "zipCode": "08520",
+        "phoneNumber": "6093717272",
+        "dialer_url": "https://www.bistrobpo.com/4010/47"
+    },
+    {
+        "storeId": 4749,
+        "address": "896 AMSTERDAM AVENUE, NEW YORK, NY 10025",
+        "zipCode": "10025",
+        "phoneNumber": "2128647272",
+        "dialer_url": "https://www.bistrobpo.com/4749/25"
+    },
+    {
+        "storeId": 3763,
+        "address": "14714 45TH AVE, Flushing, NY 11355",
+        "zipCode": "11355",
+        "phoneNumber": "7184637272",
+        "dialer_url": "https://www.bistrobpo.com/3763/50"
+    },
+    {
+        "storeId": 3226,
+        "address": "109-28 Merrick Blvd, Jamaica, NY 11433",
+        "zipCode": "11433",
+        "phoneNumber": "7182985333",
+        "dialer_url": "https://www.bistrobpo.com/3226/86"
+    },
+    {
+        "storeId": 5138,
+        "address": "6 N 3rd Ave, MOUNT VERNON, NY 10550",
+        "zipCode": "10550",
+        "phoneNumber": "9146637272",
+        "dialer_url": "https://www.bistrobpo.com/5138/37"
+    },
+    {
+        "storeId": 3559,
+        "address": "314 South Broadway, Yonkers, NY 10705",
+        "zipCode": "10705",
+        "phoneNumber": "9143767272",
+        "dialer_url": "https://www.bistrobpo.com/3559/14"
+    },
+    {
+        "storeId": 2991,
+        "address": "3746 3rd Avenue, Bronx, NY 10456",
+        "zipCode": "10456",
+        "phoneNumber": "7186817272",
+        "dialer_url": "https://www.bistrobpo.com/2991/61"
+    },
+    {
+        "storeId": 4107,
+        "address": "868 Tremont Ave, Bronx, NY 10460",
+        "zipCode": "10460",
+        "phoneNumber": "9177927272",
+        "dialer_url": "https://www.bistrobpo.com/4107/38"
+    },
+    {
+        "storeId": 3809,
+        "address": "125 18th Street, Jersey City, NJ 07310",
+        "zipCode": "07310",
+        "phoneNumber": "2012226767",
+        "dialer_url": "https://www.bistrobpo.com/3809/100"
+    },
+    {
+        "storeId": 3949,
+        "address": "601 Main Street, New Rochelle, NY 10801-7112",
+        "zipCode": "10801",
+        "phoneNumber": "9146367272",
+        "dialer_url": "https://www.bistrobpo.com/3949/48"
+    },
+    {
+        "storeId": 4200,
+        "address": "189 Avenue U, Brooklyn, NY 11223",
+        "zipCode": "11223",
+        "phoneNumber": "7183720000",
+        "dialer_url": "https://www.bistrobpo.com/4200/20"
+    },
+    {
+        "storeId": 2972,
+        "address": "1011 Broadway, Brooklyn, NY 11221",
+        "zipCode": "11221",
+        "phoneNumber": "7184437272",
+        "dialer_url": "https://www.bistrobpo.com/2972/58"
+    },
+    {
+        "storeId": 4066,
+        "address": "2354 Main Street, Bridgeport, CT 06606",
+        "zipCode": "06606",
+        "phoneNumber": "2033337272",
+        "dialer_url": "https://www.bistrobpo.com/4066/41"
+    },
+    {
+        "storeId": 1965,
+        "address": "76 LAKEVIEW AVE, CLIFTON, NJ 07011-4006",
+        "zipCode": "07011",
+        "phoneNumber": "9732537272",
+        "dialer_url": "https://www.bistrobpo.com/1965/44"
+    },
+    {
+        "storeId": 2942,
+        "address": "1204 HEMPSTEAD TPKE., UNIONDALE, NY 11553-1241",
+        "zipCode": "11553",
+        "phoneNumber": "5165387272",
+        "dialer_url": "https://www.bistrobpo.com/2942/52"
+    },
+    {
+        "storeId": 3308,
+        "address": "9431 Rockaway Blvd., Ozone Park, NY 11417",
+        "zipCode": "11417",
+        "phoneNumber": "7185772275",
+        "dialer_url": "https://www.bistrobpo.com/3308/82"
+    },
+    {
+        "storeId": 3646,
+        "address": "1084 Avenue C, Bayonne, NJ 07002",
+        "zipCode": "07002",
+        "phoneNumber": "2013399977",
+        "dialer_url": "https://www.bistrobpo.com/3646/95"
+    },
+    {
+        "storeId": 3179,
+        "address": "1840 Deer Park Avenue, Deer Park, NY 11729",
+        "zipCode": "11729",
+        "phoneNumber": "6315867272",
+        "dialer_url": "https://www.bistrobpo.com/3179/56"
+    },
+    {
+        "storeId": 3450,
+        "address": "3929 White Plains Rd., Bronx, NY 10466",
+        "zipCode": "10466",
+        "phoneNumber": "7184057272",
+        "dialer_url": "https://www.bistrobpo.com/3450/72"
+    },
+    {
+        "storeId": 3618,
+        "address": "571 New Scotland Ave., Albany, NY 12208",
+        "zipCode": "12208",
+        "phoneNumber": "5184387272",
+        "dialer_url": "https://www.bistrobpo.com/3618/19"
+    },
+    {
+        "storeId": 3534,
+        "address": "580 32nd Street, Union City, NJ 07087",
+        "zipCode": "07087",
+        "phoneNumber": "2018617272",
+        "dialer_url": "https://www.bistrobpo.com/3534/15"
+    },
+    {
+        "storeId": 3552,
+        "address": "1013 Broad St., Newark, NJ 07102",
+        "zipCode": "07102",
+        "phoneNumber": "9735966000",
+        "dialer_url": "https://www.bistrobpo.com/3552/13"
+    },
+    {
+        "storeId": 3253,
+        "address": "148 Lawrence Street, Brooklyn, NY 11201",
+        "zipCode": "11201",
+        "phoneNumber": "7185967272",
+        "dialer_url": "https://www.bistrobpo.com/3253/85"
+    },
+    {
+        "storeId": 3170,
+        "address": "340 Central Avenue, Jersey City, NJ 07307",
+        "zipCode": "07307",
+        "phoneNumber": "2016537272",
+        "dialer_url": "https://www.bistrobpo.com/3170/55"
+    },
+    {
+        "storeId": 4538,
+        "address": "161 W 231st St, Bronx, NY 10463",
+        "zipCode": "10463",
+        "phoneNumber": "7186017272",
+        "dialer_url": "https://www.bistrobpo.com/4538/9"
+    },
+    {
+        "storeId": 3116,
+        "address": "1979 JEROME AVE, Bronx, NY 10453",
+        "zipCode": "10453",
+        "phoneNumber": "7182957272",
+        "dialer_url": "https://www.bistrobpo.com/3116/76"
+    },
+    {
+        "storeId": 3743,
+        "address": "376 Queen Anne Rd, Teaneck, NJ 07666",
+        "zipCode": "07666",
+        "phoneNumber": "2014887272",
+        "dialer_url": "https://www.bistrobpo.com/3743/49"
+    },
+    {
+        "storeId": 3408,
+        "address": "601 Rogers Ave., Brooklyn, NY 11225",
+        "zipCode": "11225",
+        "phoneNumber": "7187747272",
+        "dialer_url": "https://www.bistrobpo.com/3408/77"
+    },
+    {
+        "storeId": 2985,
+        "address": "475 Willis Avenue, Bronx, NY 10455",
+        "zipCode": "10455",
+        "phoneNumber": "7182928773",
+        "dialer_url": "https://www.bistrobpo.com/2985/60"
+    },
+    {
+        "storeId": 5024,
+        "address": "240 1ST STREET, NIAGARA FALLS, NY 14303",
+        "zipCode": "14303",
+        "phoneNumber": "7163714395",
+        "dialer_url": "https://www.bistrobpo.com/5024/34"
+    },
+    {
+        "storeId": 4337,
+        "address": "466 Central Avenue, East Orange, NJ 07108",
+        "zipCode": "07108",
+        "phoneNumber": "9736787272",
+        "dialer_url": "https://www.bistrobpo.com/4337/16"
+    },
+    {
+        "storeId": 3285,
+        "address": "285 S Broadway #4, Hicksville, NY 11801",
+        "zipCode": "11801",
+        "phoneNumber": "5169327272",
+        "dialer_url": "https://www.bistrobpo.com/3285/83"
+    },
+    {
+        "storeId": 4812,
+        "address": "713 WEST GIRARD AVENUE, PHILADELPHIA, PA 19123",
+        "zipCode": "19123",
+        "phoneNumber": "2155153762",
+        "dialer_url": "https://www.bistrobpo.com/4812/29"
+    },
+    {
+        "storeId": 1826,
+        "address": "443 PASSAIC ST, HACKENSACK, NJ 07601-1518",
+        "zipCode": "07601",
+        "phoneNumber": "2014573355",
+        "dialer_url": "https://www.bistrobpo.com/1826/45"
+    },
+    {
+        "storeId": 4842,
+        "address": "3234 FULTON STREET, BROOKLYN, NY 11208",
+        "zipCode": "11208",
+        "phoneNumber": "7182357272",
+        "dialer_url": "https://www.bistrobpo.com/4842/30"
+    },
+    {
+        "storeId": 3526,
+        "address": "721 Anderson Ave, Cliffside Park, NJ 07010",
+        "zipCode": "07010",
+        "phoneNumber": "2019437272",
+        "dialer_url": "https://www.bistrobpo.com/3526/69"
+    },
+    {
+        "storeId": 2978,
+        "address": "1520 WESTCHESTER AVE., BRONX, NY 10472",
+        "zipCode": "10472",
+        "phoneNumber": "7185897272",
+        "dialer_url": "https://www.bistrobpo.com/2978/59"
+    },
+    {
+        "storeId": 2995,
+        "address": "152 NY-25A, Mount Sinai, NY 11766",
+        "zipCode": "11766",
+        "phoneNumber": "6319286666",
+        "dialer_url": "https://www.bistrobpo.com/2995/62"
+    },
+    {
+        "storeId": 3457,
+        "address": "19318 Northern Blvd, Flushing, NY 11358",
+        "zipCode": "11358",
+        "phoneNumber": "7182243311",
+        "dialer_url": "https://www.bistrobpo.com/3457/71"
+    },
+    {
+        "storeId": 4939,
+        "address": "4117 BROADWAY, NEW YORK, NY 10033",
+        "zipCode": "10033",
+        "phoneNumber": "2127957272",
+        "dialer_url": "https://www.bistrobpo.com/4939/31"
+    },
+    {
+        "storeId": 4800,
+        "address": "1715 NIAGARA FALLS BLVD, AMHERST, NY 14228-2707",
+        "zipCode": "14228",
+        "phoneNumber": "7168327272",
+        "dialer_url": "https://www.bistrobpo.com/4800/27"
+    },
+    {
+        "storeId": 3584,
+        "address": "40-12 Greenpoint Avenue, Sunnyside, NY 11104",
+        "zipCode": "11104",
+        "phoneNumber": "7187847272",
+        "dialer_url": "https://www.bistrobpo.com/3584/22"
+    },
+    {
+        "storeId": 4971,
+        "address": "5542 METROPOLITAN AVE, RIDGEWOOD, NY 11385",
+        "zipCode": "11385",
+        "phoneNumber": "7183955812",
+        "dialer_url": "https://www.bistrobpo.com/4971/33"
+    },
+    {
+        "storeId": 4178,
+        "address": "2733 White Plains Rd, Bronx, NY 10467",
+        "zipCode": "10467",
+        "phoneNumber": "7188827272",
+        "dialer_url": "https://www.bistrobpo.com/4178/18"
+    },
+    {
+        "storeId": 3088,
+        "address": "90-35 Corona Avenue, Elmhurst, NY 11373",
+        "zipCode": "11373",
+        "phoneNumber": "7187607272",
+        "dialer_url": "https://www.bistrobpo.com/3088/74"
+    },
+    {
+        "storeId": 3002,
+        "address": "16202 Union Turnpike, Fresh Meadows, NY 11366",
+        "zipCode": "11366",
+        "phoneNumber": "7185917272",
+        "dialer_url": "https://www.bistrobpo.com/3002/63"
+    },
+    {
+        "storeId": 3528,
+        "address": "138 4th Avenue, Brooklyn, NY 11217",
+        "zipCode": "11217",
+        "phoneNumber": "7188527272",
+        "dialer_url": "https://www.bistrobpo.com/3528/68"
+    },
+    {
+        "storeId": 3197,
+        "address": "4304 NATIONAL ST, CORONA, NY 11368",
+        "zipCode": "11368",
+        "phoneNumber": "7186723773",
+        "dialer_url": "https://www.bistrobpo.com/3197/84"
+    },
+    {
+        "storeId": 3028,
+        "address": "8953 Francis Lewis Blvd, Queens Village, NY 11427",
+        "zipCode": "11427",
+        "phoneNumber": "7182647272",
+        "dialer_url": "https://www.bistrobpo.com/3028/64"
+    },
+    {
+        "storeId": 5022,
+        "address": "39 Portland Avenue, Bergenfield, NJ 07621",
+        "zipCode": "07621",
+        "phoneNumber": "2014390808",
+        "dialer_url": "https://www.bistrobpo.com/5022/96"
+    },
+    {
+        "storeId": 4581,
+        "address": "604 Grand St, Brooklyn, NY 11211",
+        "zipCode": "11211",
+        "phoneNumber": "7182188282",
+        "dialer_url": "https://www.bistrobpo.com/4581/10"
+    },
+    {
+        "storeId": 5048,
+        "address": "8015 5TH AVENUE, BROOKLYN, NY 11209",
+        "zipCode": "11209",
+        "phoneNumber": "7182387272",
+        "dialer_url": "https://www.bistrobpo.com/5048/35"
+    },
+    {
+        "storeId": 3573,
+        "address": "185 Straight St., Paterson, NJ 07501",
+        "zipCode": "07501",
+        "phoneNumber": "9737422200",
+        "dialer_url": "https://www.bistrobpo.com/3573/17"
+    },
+    {
+        "storeId": 3355,
+        "address": "362 E. 204th Street, Bronx, NY 10467",
+        "zipCode": "10467",
+        "phoneNumber": "7185477272",
+        "dialer_url": "https://www.bistrobpo.com/3355/80"
+    },
+    {
+        "storeId": 3377,
+        "address": "2175 Hylan Blvd./ Midland, Staten Island, NY 10306",
+        "zipCode": "10306",
+        "phoneNumber": "7186673202",
+        "dialer_url": "https://www.bistrobpo.com/3377/78"
+    }
+]
