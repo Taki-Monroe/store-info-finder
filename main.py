@@ -20,8 +20,6 @@ def get_random_store(store_data):
 
 # Streamlit app setup
 def main():
-    st.title("Store Information Finder")
-
     # Load the store data
     store_data = load_store_data()
 
